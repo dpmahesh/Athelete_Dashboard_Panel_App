@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT notebooks/AtheleteDashboard.ipynb --allow-websocket-origin=athelete-dashboard.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT AtheleteDashboard.ipynb --allow-websocket-origin=athelete-dashboard.herokuapp.com
